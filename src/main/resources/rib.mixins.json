@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "me.connlost.rib.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "MixinInfinityEnchantment"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
